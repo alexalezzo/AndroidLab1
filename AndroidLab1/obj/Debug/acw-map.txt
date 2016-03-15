@@ -1,0 +1,4 @@
+AndroidLab1.MainActivity, AndroidLab1;md588c0f32aafe481fe9818800bc37ea911.MainActivity
+AndroidLab1.MainActivity, AndroidLab1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md588c0f32aafe481fe9818800bc37ea911.MainActivity
+AndroidLab1.MainActivity;md588c0f32aafe481fe9818800bc37ea911.MainActivity
+androidlab1.MainActivity;md588c0f32aafe481fe9818800bc37ea911.MainActivity
